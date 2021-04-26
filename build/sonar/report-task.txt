@@ -1,0 +1,6 @@
+projectKey=stack-sonar-test
+serverUrl=http://localhost:9000
+serverVersion=8.8.0.42792
+dashboardUrl=http://localhost:9000/dashboard?id=stack-sonar-test
+ceTaskId=AXkNBxP31x0WrUoiOTTH
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXkNBxP31x0WrUoiOTTH
